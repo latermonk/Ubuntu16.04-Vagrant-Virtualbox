@@ -24,5 +24,14 @@ vagrant version
 
 
 
+##  sucess version
+
+ubuntu 16.04 + vagrant 2.0.3 + virtualbox 5.2
+
+
+
+
+
+
 
 
